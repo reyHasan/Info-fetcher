@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Header from './components/header'
+import Header from './components/Header'
 import Details from './components/Details'
 import Hero from './components/Hero'
 import Tools from './components/Tools'
